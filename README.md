@@ -25,3 +25,12 @@ Features:
 
 
 <H2>Libraries Used</H2>
+
+| Section                     | Libraries                                                                                                                                                         |
+| --------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Data Handling**           | `pandas`, `numpy`                                                                                                                                                 |
+| **Visualization**           | `matplotlib`, `seaborn`                                                                                                                                           |
+| **Preprocessing & Scaling** | `sklearn.preprocessing.StandardScaler`, `sklearn.model_selection.train_test_split`                                                                                |
+| **Modeling**                | `sklearn.neighbors.KNeighborsClassifier`, `sklearn.tree.DecisionTreeClassifier`, `sklearn.ensemble.RandomForestClassifier`, `sklearn.ensemble.AdaBoostClassifier` |
+| **Model Tuning**            | `sklearn.model_selection.GridSearchCV`, `RandomizedSearchCV`                                                                                                      |
+| **Evaluation**              | `sklearn.metrics` (`accuracy_score`, `precision_score`, `recall_score`, `f1_score`, `confusion_matrix`, `classification_report`)                                  |
