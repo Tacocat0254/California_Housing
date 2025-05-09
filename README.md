@@ -16,7 +16,7 @@ Features:
 
   <H2>Results Summary</H2>
 
-  | Model             | Accuracy | Precision | Recall | F1 Score |
+| Model             | Accuracy | Precision | Recall | F1 Score |
 | ----------------- | -------- | --------- | ------ | -------- |
 | **KNN**           | 0.84     | 0.84      | 0.84   | 0.84     |
 | **Decision Tree** | 0.85     | 0.85      | 0.85   | 0.85     |
